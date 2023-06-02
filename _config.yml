@@ -19,10 +19,10 @@ social-github: mlogue55 # add your Github handle
 social-email: mattlogue1@gmail.com # add your Email address
 
 # Disqus
-discus-identifier: mr-brown # add your discus identifier
+#discus-identifier: mr-brown # add your discus identifier
 
 # Tracker
-analytics: 	G-RK7F4VK7CC# Google Analytics
+analytics: 	G-RK7F4VK7CC
 
 # Build Settings
 markdown: kramdown
