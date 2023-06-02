@@ -22,7 +22,7 @@ social-email: mattlogue1@gmail.com # add your Email address
 discus-identifier: mr-brown # add your discus identifier
 
 # Tracker
-analytics: # Google Analytics
+analytics: 	G-RK7F4VK7CC# Google Analytics
 
 # Build Settings
 markdown: kramdown
