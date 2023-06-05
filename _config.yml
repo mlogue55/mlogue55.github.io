@@ -12,8 +12,9 @@ author: Matt Logue # add your name
 author-img: matt-logue.jpg # add your photo
 about-author: | 
   Lead Senior Infrastructure Engineering with a heavy focus on Microsoft endpoint management solutions.
-  
+
   Specializing in Microsoft Intune, Configuration Manager, Windows 365, Azure Virtual Desktop, Azure Infrastructure and much more.
+  
 about-author-location: West Virginia, USA  # add description
 social-twitter: LogueWVU # add your Twitter handle
 social-github: mlogue55 # add your Github handle
